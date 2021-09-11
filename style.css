@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Allison&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allison&family=PT+Sans+Narrow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.bg-container{
+	background-image:url("bg-image.jpg");
+	height:30vh;
+	background-size:cover;
+}
+.top-heading{
+	font-family:"roboto";
+	font-size:25px;
+	color:white;
+	text-align:center;
+	text-decoration:underline;
+}
+.top-para{
+color:white;
+text-align:center;
+}
+.top-bottom{
+	background-color: #8ffffd;
+	padding: 20px;
+	text-align: center;
+}
+.top-image{
+	background-color:white;
+	height:390px;
+	width:390px;
+	padding:15px;
+	border-radius:15px;
+	text-align: center;
+	margin: 25px;
+}
+
+.heading{
+	font-size: 15px;
+}
+
+.image-size{
+	height: 150px;
+	width: 150px;
+}
+
+.head-size{
+	font-size: 30px;
+	padding: 20px;
+}
+
+.paragraph{
+	font-size: 20px;
+	padding: 20px;
+}
+
+.button-size{
+	border-radius: 10px;
+	padding: 20px;
+}
